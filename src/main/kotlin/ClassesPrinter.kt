@@ -1,0 +1,3 @@
+interface ClassesPrinter {
+    fun printClasses()
+}
